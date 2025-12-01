@@ -73,6 +73,226 @@ namespace Eleea_Skin.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _3337875597197 {
+            get {
+                object obj = ResourceManager.GetObject("3337875597197", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _41hFoEyPoTL__AC_SY450_ {
+            get {
+                object obj = ResourceManager.GetObject("41hFoEyPoTL._AC_SY450_", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _41Vn2XSt2GL__AC_SY300_SX300_QL70_ML2_ {
+            get {
+                object obj = ResourceManager.GetObject("41Vn2XSt2GL._AC_SY300_SX300_QL70_ML2_", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _51_eOXst_iL__AC_SY300_SX300_QL70_ML2_ {
+            get {
+                object obj = ResourceManager.GetObject("51-eOXst+iL._AC_SY300_SX300_QL70_ML2_", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _512E8MKNDjL__AC_SY450_ {
+            get {
+                object obj = ResourceManager.GetObject("512E8MKNDjL._AC_SY450_", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _512GnjVjAhL__AC_SY355_ {
+            get {
+                object obj = ResourceManager.GetObject("512GnjVjAhL._AC_SY355_", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _51FIviGzyfL__AC_SY300_SX300_QL70_ML2_ {
+            get {
+                object obj = ResourceManager.GetObject("51FIviGzyfL._AC_SY300_SX300_QL70_ML2_", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _51S90uTARfS__AC_SY300_SX300_QL70_ML2_ {
+            get {
+                object obj = ResourceManager.GetObject("51S90uTARfS._AC_SY300_SX300_QL70_ML2_", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _51saw5NvgtL__AC_UL200_SR200_200_ {
+            get {
+                object obj = ResourceManager.GetObject("51saw5NvgtL._AC_UL200_SR200,200_", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _61BND6YHxaL__AC_SY450_ {
+            get {
+                object obj = ResourceManager.GetObject("61BND6YHxaL._AC_SY450_", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _61fa3RGMFgL__AC_SY300_SX300_QL70_ML2_ {
+            get {
+                object obj = ResourceManager.GetObject("61fa3RGMFgL._AC_SY300_SX300_QL70_ML2_", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _61jQnXndDsL__AC_SY450_ {
+            get {
+                object obj = ResourceManager.GetObject("61jQnXndDsL._AC_SY450_", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _61ZqKGwbnaL__AC_SY355_ {
+            get {
+                object obj = ResourceManager.GetObject("61ZqKGwbnaL._AC_SY355_", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _713oujBJJ8L__AC_SX425_ {
+            get {
+                object obj = ResourceManager.GetObject("713oujBJJ8L._AC_SX425_", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _713oujBJJ8L1 {
+            get {
+                object obj = ResourceManager.GetObject("713oujBJJ8L1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _713oujBJJ8L2 {
+            get {
+                object obj = ResourceManager.GetObject("713oujBJJ8L2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _713ZsHmxJIL__AC_SY450_ {
+            get {
+                object obj = ResourceManager.GetObject("713ZsHmxJIL._AC_SY450_", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _71Hb13hlogL__AC_SY450_ {
+            get {
+                object obj = ResourceManager.GetObject("71Hb13hlogL._AC_SY450_", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _71U_qCUYzKL__AC_SY450_ {
+            get {
+                object obj = ResourceManager.GetObject("71U+qCUYzKL._AC_SY450_", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _71Xa8RMrOKL__AC_SL1500_ {
+            get {
+                object obj = ResourceManager.GetObject("71Xa8RMrOKL._AC_SL1500_", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _9f5ce2_6d3f9b4acf66402e9b4baa1ef7feee15_mv2 {
+            get {
+                object obj = ResourceManager.GetObject("9f5ce2_6d3f9b4acf66402e9b4baa1ef7feee15~mv2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap avene_cleanance_hydra_crema_calmante_40_ml_3_1440 {
+            get {
+                object obj = ResourceManager.GetObject("avene-cleanance-hydra-crema-calmante-40-ml-3-1440", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap basura {
             get {
                 object obj = ResourceManager.GetObject("basura", resourceCulture);
@@ -86,6 +306,16 @@ namespace Eleea_Skin.Properties {
         internal static System.Drawing.Bitmap carrito_de_compras {
             get {
                 object obj = ResourceManager.GetObject("carrito-de-compras", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap cerave_serum_antiimperfecciones_envase_y_dosificador_960 {
+            get {
+                object obj = ResourceManager.GetObject("cerave-serum-antiimperfecciones-envase-y-dosificador-960", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -146,6 +376,16 @@ namespace Eleea_Skin.Properties {
         internal static System.Drawing.Bitmap inicioEleea {
             get {
                 object obj = ResourceManager.GetObject("inicioEleea", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap la_roche_posay_effaclar_gel_limpiador_purificabte_200_ml_1440 {
+            get {
+                object obj = ResourceManager.GetObject("la-roche-posay-effaclar-gel-limpiador-purificabte-200-ml-1440", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

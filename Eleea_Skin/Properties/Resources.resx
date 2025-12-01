@@ -118,37 +118,109 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="GEL_LIMPIADOR_PARA_PIEL_GRASA_473_F" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\GEL_LIMPIADOR_PARA_PIEL_GRASA_473_F.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="carrito-de-compras" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\carrito-de-compras.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="DefaultImage" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\DefaultImage.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="inicioEleea" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\inicioEleea.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="iniciarSesion" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\iniciarSesion.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="31vqLM-8VuL._AC_US40_" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\31vqLM-8VuL._AC_US40_.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="usuario" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\usuario.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="crearCuenta" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\crearCuenta.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="depositphotos_464771766-stock-illustration-no-photo-or-blank-image" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\depositphotos_464771766-stock-illustration-no-photo-or-blank-image.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="iniciarSesion" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\iniciarSesion.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="usuario" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\usuario.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="713oujBJJ8L1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\713oujBJJ8L._AC_SX425_1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="71Hb13hlogL._AC_SY450_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\71Hb13hlogL._AC_SY450_.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DefaultImage" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DefaultImage.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="61BND6YHxaL._AC_SY450_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\61BND6YHxaL._AC_SY450_.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="71U+qCUYzKL._AC_SY450_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\71U+qCUYzKL._AC_SY450_.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="51saw5NvgtL._AC_UL200_SR200,200_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\51saw5NvgtL._AC_UL200_SR200,200_.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="inicioEleea" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\inicioEleea.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="713oujBJJ8L._AC_SX425_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\713oujBJJ8L._AC_SX425_.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="61jQnXndDsL._AC_SY450_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\61jQnXndDsL._AC_SY450_.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="51S90uTARfS._AC_SY300_SX300_QL70_ML2_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\51S90uTARfS._AC_SY300_SX300_QL70_ML2_.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GEL_LIMPIADOR_PARA_PIEL_GRASA_473_F" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\GEL_LIMPIADOR_PARA_PIEL_GRASA_473_F.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="512E8MKNDjL._AC_SY450_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\512E8MKNDjL._AC_SY450_.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="avene-cleanance-hydra-crema-calmante-40-ml-3-1440" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\avene-cleanance-hydra-crema-calmante-40-ml-3-1440.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="lupa" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\lupa.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="9f5ce2_6d3f9b4acf66402e9b4baa1ef7feee15~mv2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\9f5ce2_6d3f9b4acf66402e9b4baa1ef7feee15~mv2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="3337875597197" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3337875597197.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="41Vn2XSt2GL._AC_SY300_SX300_QL70_ML2_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\41Vn2XSt2GL._AC_SY300_SX300_QL70_ML2_.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="51FIviGzyfL._AC_SY300_SX300_QL70_ML2_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\51FIviGzyfL._AC_SY300_SX300_QL70_ML2_.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="carrito-de-compras" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\carrito-de-compras.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="51-eOXst+iL._AC_SY300_SX300_QL70_ML2_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\51-eOXst+iL._AC_SY300_SX300_QL70_ML2_.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="41hFoEyPoTL._AC_SY450_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\41hFoEyPoTL._AC_SY450_.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="713ZsHmxJIL._AC_SY450_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\713ZsHmxJIL._AC_SY450_.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="la-roche-posay-effaclar-gel-limpiador-purificabte-200-ml-1440" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\la-roche-posay-effaclar-gel-limpiador-purificabte-200-ml-1440.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="61ZqKGwbnaL._AC_SY355_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\61ZqKGwbnaL._AC_SY355_.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="basura" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\basura.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="512GnjVjAhL._AC_SY355_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\512GnjVjAhL._AC_SY355_.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cerave-serum-antiimperfecciones-envase-y-dosificador-960" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cerave-serum-antiimperfecciones-envase-y-dosificador-960.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="71Xa8RMrOKL._AC_SL1500_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\71Xa8RMrOKL._AC_SL1500_.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="31vqLM-8VuL._AC_US40_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\31vqLM-8VuL._AC_US40_.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="61fa3RGMFgL._AC_SY300_SX300_QL70_ML2_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\61fa3RGMFgL._AC_SY300_SX300_QL70_ML2_.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="depositphotos_464771766-stock-illustration-no-photo-or-blank-image" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\depositphotos_464771766-stock-illustration-no-photo-or-blank-image.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="713oujBJJ8L2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\713oujBJJ8L._AC_SX425_2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

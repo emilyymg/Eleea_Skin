@@ -188,5 +188,77 @@
   <ItemGroup>
     <None Include="Resources\basura.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9f5ce2_6d3f9b4acf66402e9b4baa1ef7feee15~mv2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\51saw5NvgtL._AC_UL200_SR200,200_.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cerave-serum-antiimperfecciones-envase-y-dosificador-960.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\avene-cleanance-hydra-crema-calmante-40-ml-3-1440.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3337875597197.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\51-eOXst+iL._AC_SY300_SX300_QL70_ML2_.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\la-roche-posay-effaclar-gel-limpiador-purificabte-200-ml-1440.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\512E8MKNDjL._AC_SY450_.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\41Vn2XSt2GL._AC_SY300_SX300_QL70_ML2_.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\71Xa8RMrOKL._AC_SL1500_.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\51FIviGzyfL._AC_SY300_SX300_QL70_ML2_.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\71Hb13hlogL._AC_SY450_.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\713oujBJJ8L._AC_SX425_.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\61jQnXndDsL._AC_SY450_.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\713oujBJJ8L._AC_SX425_1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\61ZqKGwbnaL._AC_SY355_.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\512GnjVjAhL._AC_SY355_.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\51S90uTARfS._AC_SY300_SX300_QL70_ML2_.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\61BND6YHxaL._AC_SY450_.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\713ZsHmxJIL._AC_SY450_.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\61fa3RGMFgL._AC_SY300_SX300_QL70_ML2_.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\41hFoEyPoTL._AC_SY450_.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\71U+qCUYzKL._AC_SY450_.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\713oujBJJ8L._AC_SX425_2.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
